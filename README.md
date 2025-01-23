@@ -66,3 +66,7 @@ python3 inference_your.py
 ```
 
 Modify the `inference_your.py` file to synthesize desired phrases, ensuring accurate transcriptions.
+
+## Built With
+
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
